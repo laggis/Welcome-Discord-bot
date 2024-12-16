@@ -1,1 +1,1 @@
-https://github.com/laggis/Welcome-Discord-bot/blob/main/welcome.png?raw=true
+![welcome](https://github.com/user-attachments/assets/c8f59b5c-adde-40f1-a5e4-3334ab16e9b6)
